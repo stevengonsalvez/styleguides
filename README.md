@@ -26,8 +26,6 @@ This is a collection of styleguides for development of apps on M&S.
 
 [Pull request guidance][pr]
 
-[Puppet][pp]
-
 [READMEs for M&S applications][readme]
 
 [Rubocop][rubocop]
@@ -45,7 +43,6 @@ This is a collection of styleguides for development of apps on M&S.
 [govuk-elements]: http://govuk-elements.herokuapp.com/
 [html]: html.md
 [js]: js.md
-[pp]: puppet.md
 [pr]: pull-requests.md
 [rb]: ruby.md
 [readme]: use-of-READMEs.md
