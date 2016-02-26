@@ -1,6 +1,6 @@
 # M&S Style guides
 
-This is a collection of styleguides for development of apps on M&S.
+This is a collection of styleguides for development of apps on M&S. Adapted from the great [AlphaGov Styleguides][alpha].
 
 ## Languages
 
@@ -35,6 +35,7 @@ This is a collection of styleguides for development of apps on M&S.
 (Leaving this here for now. We don't have an equivalent atm.)
 [govuk-elements][govuk-elements] – layout, typography, colour, images, icons, forms, buttons and data used on GOV.UK.
 
+[alpha]: https://github.com/alphagov/styleguides
 [api]: api.md
 [css]: css.md
 [gem]: rubygems.md
