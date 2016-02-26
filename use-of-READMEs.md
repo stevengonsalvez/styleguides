@@ -1,10 +1,10 @@
-# READMEs for GOV.UK applications
+# READMEs for M&S applications
 
-This is a guide to writing and maintaining README documents for GOV.UK's public repositories.
+This is a guide to writing and maintaining README documents for M&S's repositories.
 
 ## Who are READMEs for (aka what's the user need)?
 
-- New starters to GDS
+- New starters to M&S
 - People joining a new team
 - People interested in our work
 - Developers on other teams
@@ -20,7 +20,7 @@ One paragraph description and purpose.
 
 ## Live examples (if available)
 
-- [gov.uk/thing](https://www.gov.uk/thing)
+- [marksandspencer.com/thing](https://www.marksandspencer.com/nothing-here)
 
 ## Nomenclature
 
@@ -36,7 +36,7 @@ layer. It's only presented as an internal API and doesn't face public users.
 
 ### Dependencies
 
-- [alphagov/other-repo]() - provides some downstream service
+- [DigitalInnovation/other-repo]() - provides some downstream service
 - [redis]() - provides a backing service for work queues
 
 ### Running the application
@@ -87,18 +87,18 @@ Keep this section limited to core endpoints - if the app is complex link out to 
 	- For Ruby libraries always use [yardoc](http://yardoc.org/) - then Gems will automatically have docs built
 - Contributors - we can use GitHub's native graphing tools for this
 - Contribution guidelines - use GitHub's [CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) guidelines for this
-	- When writing this document, always link to the [GOV.UK pull request styleguide](https://github.com/alphagov/styleguides/blob/master/pull-requests.md)
+	- When writing this document, always link to the [GOV.UK pull request styleguide](https://github.com/DigitalInnovation/styleguides/blob/master/pull-requests.md)
 	- Document any weirdness here (eg when to use Cucumber over something else)
 - Full licence - again, follow [GitHub convention](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 
 ## One-line summaries on GitHub repositories
 
-Who are these for? These are for people who scan the list in [alphagov](https://github.com/alphagov/) and need a quick overview.
+Who are these for? These are for people who scan the list in [DigitalInnovation](https://github.com/DigitalInnovation/) and need a quick overview.
 
-- Include information about whether it's on GOV.UK
+- Include information about whether it's on M&S
 - Try to tone down technical language - 'Filtered search of content' is better than 'Faceted search interface'
 - Don't use the GitHub link field unless it has a single unchanging URL - better to version public links with the code
 
 A good example:
 
-> GOV.UK filtered search of public content
+> M&S filtered search of products

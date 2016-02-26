@@ -1,6 +1,6 @@
-# GOV.UK Style guides
+# M&S Style guides
 
-This is a collection of styleguides for development of apps on GOV.UK.
+This is a collection of styleguides for development of apps on M&S.
 
 ## Languages
 
@@ -28,12 +28,13 @@ This is a collection of styleguides for development of apps on GOV.UK.
 
 [Puppet][pp]
 
-[READMEs for GOV.UK applications][readme]
+[READMEs for M&S applications][readme]
 
 [Rubocop][rubocop]
 
 ## Useful guides elsewhere
 
+(Leaving this here for now. We don't have an equivalent atm.)
 [govuk-elements][govuk-elements] – layout, typography, colour, images, icons, forms, buttons and data used on GOV.UK.
 
 [api]: api.md
