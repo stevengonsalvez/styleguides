@@ -123,6 +123,10 @@ branch in the repository history. This advice may be freely ignored for smaller
 local feature branches for which a fast-forward merge will look like any other
 routine development work on `master`.
 
+When your work has been merged and you no longer have use for your feature
+branch, consider deleting your branch. This keeps the repository tidy and
+it won't become littered with stale branches.
+
 ## Never call `git push -f` without additional arguments
 
 Force pushing in git is a subject that attracts all kinds of religious
