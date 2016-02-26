@@ -102,7 +102,7 @@ data if we switched away. Please refer to the [commit message styleguide](/git.m
   include a good commit message.
 - Explicitly comment that all relevant comments have been addressed to
   notify any watchers - you don't need to do this on a per-comment basis
-- Refactoring can and should happen in follow-up separate pull request --
+- Refactoring can and should happen in follow-up separate pull request -
   it shouldn't ever be blocker
 - Conversations on a PR should be rolled into the existing or new commits.
   Github and pull-requests are temporary - a commit message is forever
